@@ -11,7 +11,6 @@ Sou uma entusiasta da programação e estou sempre em busca de aprender e aprimo
 | CSS              | ![CSS](https://img.icons8.com/ios/50/000000/css3.png)           |
 | JavaScript       | ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) |
 | SQL              | ![SQL](https://img.icons8.com/ios/50/000000/sql.png)            |
-| Python           | ![Python](https://img.icons8.com/ios/50/000000/python.png)      |
 | Administração    | ![Administração](https://img.icons8.com/ios/50/000000/business.png) |
 
 ## 📫 Contato
