@@ -18,7 +18,7 @@ Sou estudante de **Engenharia de Software**. Tenho grande interesse por **desenv
 
 **Outros conhecimentos:**
 
-* Excel e organização de dados
+* Administração
 * Lógica de programação
 * Conceitos de Inteligência Artificial
  — Fundamentos de Dados no Azure
