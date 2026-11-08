@@ -1,43 +1,45 @@
-# 👩🏻‍💻 Gabrielle Cristina
+<div align="center">
+  <img src="assets/header.svg" alt="Gabrielle Cristina — Computer Science undergraduate" width="100%">
+</div>
 
-## ✨ Sobre mim
+<br>
 
-Sou estudante de **Engenharia de Software**. Tenho grande interesse por **desenvolvimento web, inteligência artificial e tecnologia**, buscando sempre aprendizado contínuo e evolução profissional.
+<table>
+  <tr>
+    <td width="240" align="center" valign="middle">
+      <img src="assets/profile.svg" alt="Photo of Gabrielle Cristina" width="200">
+    </td>
+    <td valign="middle">
 
----
+Hi, I'm **Gabrielle** — a Computer Science undergraduate at **Anhembi Morumbi University** with a strong interest in software development and in using technology to solve real business problems.
 
-## Tecnologias e Conhecimentos
+I'm currently studying **JavaScript, HTML, CSS and Python**, complemented by SQL, Power BI, database fundamentals, cloud computing and artificial intelligence, with Microsoft **AI-900** and **DP-900** training along the way.
 
-| Tecnologia | Ícone                                                              |
-| ---------- | ------------------------------------------------------------------ |
-| HTML       | ![HTML](https://img.icons8.com/ios/50/000000/html-5.png)           |
-| CSS        | ![CSS](https://img.icons8.com/ios/50/000000/css3.png)              |
-| JavaScript | ![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) |
-| SQL        | ![SQL](https://img.icons8.com/ios/50/000000/sql.png)               |
-| Git        | ![Git](https://img.icons8.com/ios/50/000000/git.png)               |
+I'm especially drawn to **process automation and optimization**, and to the space where **technology, data and business meet**. Learning is a continuous process for me: study, build, iterate.
 
-**Outros conhecimentos:**
+```js
+const gabrielle = {
+  studying:  "Computer Science @ Anhembi Morumbi",
+  learning:  ["JavaScript", "HTML", "CSS", "Python"],
+  interests: ["Software", "Data", "Automation"],
+  mindset:   "continuous learning",
+};
+```
 
-* Administração
-* Lógica de programação
-* Conceitos de Inteligência Artificial
- — Fundamentos de Dados no Azure
+</td>
+  </tr>
+</table>
 
----
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
 
-## 🎯 Objetivo
+### Education & Certifications
 
-Busco uma oportunidade na área de **tecnologia** para desenvolver minhas habilidades técnicas, adquirir experiência prática e crescer profissionalmente contribuindo com projetos inovadores.
-
----
-
-## 📫 Contato
-
-* **Email:** [gabriellecristina.sd@gmail.com](mailto:gabriellecristina.sd@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/gabrielle-cristina-228084314/](https://www.linkedin.com/in/gabrielle-cristina-228084314/)
-* **GitHub:** [https://github.com/gabi-cristina](https://github.com/gabi-cristina)
-
----
+| Credential | Institution |
+| :-- | :-- |
+| **B.Sc. in Computer Science** *(in progress)* | Anhembi Morumbi University |
+| **Microsoft AI-900** — Azure AI Fundamentals | Microsoft |
+| **Microsoft DP-900** — Azure Data Fundamentals | Microsoft |
+| **Technical education in Administration** | — |
 
 ⭐ Obrigada por visitar meu perfil!
 
